@@ -12,5 +12,5 @@
 
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/0demoncat0)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/0demoncat0?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
