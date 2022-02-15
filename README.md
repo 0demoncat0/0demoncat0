@@ -14,3 +14,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/0demoncat0?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0demoncat0)](https://github.com/anuraghazra/github-readme-stats)
